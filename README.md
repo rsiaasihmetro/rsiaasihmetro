@@ -1,16 +1,20 @@
-## Hi there 👋
+# Website Informasi RSIA Asih
 
-<!--
-**rsiaasihmetro/rsiaasihmetro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Website statis tanpa login, database, atau data pasien. Siap di-upload ke hosting.
 
-Here are some ideas to get you started:
+## Jalankan di komputer
+Buka `index.html` di browser, atau gunakan XAMPP/Live Server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Upload online
+1. Beli domain + hosting.
+2. Masuk cPanel/File Manager.
+3. Buka folder `public_html`.
+4. Upload isi folder project ini.
+5. Pastikan `index.html` langsung berada di `public_html`.
+6. Aktifkan SSL/HTTPS.
+7. Buka domain.
+
+## Yang wajib diverifikasi sebelum publikasi
+Nama dokter, jadwal dokter, visi-misi resmi, foto/logo, WhatsApp, email, layanan, dan semua informasi operasional.
+
+Data awal profil/alamat/telepon/kelas/pelayanan/bed diisi berdasarkan RS Online Kementerian Kesehatan.
